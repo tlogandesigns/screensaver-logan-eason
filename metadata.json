@@ -1,0 +1,11 @@
+{
+    "uuid": "screensaver@logan-eason",
+    "name": "Animated Screensaver",
+    "description": "A simple animated screensaver for GNOME Shell.",
+    "shell-version": ["46"],
+    "version": 1,
+    "settings-schema": "org.gnome.shell.extensions.screensaver",
+    "url": "https://github.com/yourname/screensaver",
+    "gettext-domain": "screensaver"
+}
+ 
