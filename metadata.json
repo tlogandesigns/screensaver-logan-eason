@@ -5,7 +5,7 @@
     "shell-version": ["46"],
     "version": 1,
     "settings-schema": "org.gnome.shell.extensions.screensaver",
-    "url": "https://github.com/yourname/screensaver",
+    "url": "https://github.com/tlogandesigns/screensaver-logan-eason",
     "gettext-domain": "screensaver"
 }
  
